@@ -576,9 +576,11 @@
 @media (min-width: 1120px) {
     .logo-foto {
         width: 531px;
+        height: 280px;
         border-radius: 7px;
         margin-right: 32px;
         margin-top: 16px;
+        margin-bottom: 40px;
 
     }
 }
